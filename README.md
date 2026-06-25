@@ -119,8 +119,6 @@ pnpm run dev
 ---
 
 ## ⚠️ Notes
-
-* Built initially in a Linux (Replit) environment — minor adjustments needed for Windows
 * Backend and frontend run separately
 * Requires API key + database to function fully
 
